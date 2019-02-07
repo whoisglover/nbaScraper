@@ -8,4 +8,9 @@ Make sure python is installed:
 
 ````
 python --version
-python nba.py ````
+````
+
+Then:
+````
+python nba.py 
+````
